@@ -1,6 +1,6 @@
 # CancerLINC
 
-[CancerLINC] (https://cancerlinc.org/about-cancerlinc/) is a Richmond-based nonprofit that provides free, non-medical support to cancer patients and their families. Through a network of more than 160 volunteer professionals, the organization helps individuals navigate challenges such as medical debt, insurance appeals, employment issues, housing concerns, and legal or life-planning needs. Their services are offered at no cost, with a special focus on assisting those living below the federal poverty level.
+[CancerLINC](https://cancerlinc.org/about-cancerlinc/) is a Richmond-based nonprofit that provides free, non-medical support to cancer patients and their families. Through a network of more than 160 volunteer professionals, the organization helps individuals navigate challenges such as medical debt, insurance appeals, employment issues, housing concerns, and legal or life-planning needs. Their services are offered at no cost, with a special focus on assisting those living below the federal poverty level.
 
 ## Project Mission
 
