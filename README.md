@@ -8,4 +8,4 @@ To create an integrated mobile and web platform that strengthens communication b
 
 ### Getting Started
 
-Begin by setting up the environment using the following guidelines: [Environment Setup](docs/environment_setup.md)\
+Begin by setting up the environment using the following guidelines: [Environment Setup](docs/environment_setup.md)
