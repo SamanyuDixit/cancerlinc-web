@@ -77,4 +77,4 @@ PRs have the following lifecycle:
 
 By the end of this, you should be ready to begin writing code and contributing to the project via your branches!
 
-Next: Refer to the [Resources](resource.md) page for a comprehensive list of helpful links.
+Next: Refer to the [Resources](resources.md) page for a comprehensive list of helpful links.
