@@ -1,55 +1,11 @@
-<p align="center">
-  <img src="./public/cssglogo.svg" alt="CSSG Logo" width="200">
-</p>
+# CancerLINC
 
-# CSSG Starter Template
+[CancerLINC] (https://cancerlinc.org/about-cancerlinc/) is a Richmond-based nonprofit that provides free, non-medical support to cancer patients and their families. Through a network of more than 160 volunteer professionals, the organization helps individuals navigate challenges such as medical debt, insurance appeals, employment issues, housing concerns, and legal or life-planning needs. Their services are offered at no cost, with a special focus on assisting those living below the federal poverty level.
 
-This is a starter template for CSSG projects using React, TypeScript, and Tailwind CSS. It is configured to be used with VS Code Dev Containers for a consistent development environment.
+## Project Mission
 
-## Prerequisites
+To create an integrated mobile and web platform that strengthens communication between CancerLINC’s social worker team and the patients they serve. The app will provide a secure chat system, easy access to legal and financial health checklists, a calendar of events, and referral contact information, while the web component will allow staff to manage patient interactions, maintain updated referral details, and ensure a reliable, scalable, and user-friendly experience. Together, these tools aim to streamline support, improve accessibility, and enhance the overall quality of care CancerLINC can deliver.
 
-Before you begin, ensure you have the following installed:
+### Getting Started
 
-- [Git](https://git-scm.com/)
-- [Docker Desktop](https://www.docker.com/products/docker-desktop)
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Dev Containers extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) for VS Code.
-
-## Getting Started
-
-1.  **Fork the repository:**
-
-    Fork this repository. Then, clone your forked repository:
-
-    ```bash
-    git clone <your-forked-repository-url>
-    cd <repository-name>
-    ```
-
-2.  **Open in VS Code/Cursor:**
-
-    Open the cloned repository folder in VS Code or Cursor.
-
-3.  **Open in Dev Container:**
-
-    Once the project is open in VS Code, you will be prompted to "Reopen in Container". Click on it.
-
-    If you don't see the prompt, you can open the command palette and run "Dev Containers: Reopen in Container".
-    - **Windows/Linux:** `Ctrl+Shift+P`
-    - **Mac:** `Cmd+Shift+P`
-
-    This will build the Docker container for the development environment. The first build might take a few minutes. Subsequent loads will be much faster.
-
-## Available Commands
-
-Inside the dev container, you can use the following commands:
-
-| Command             | Description                                                |
-| :------------------ | :--------------------------------------------------------- |
-| `npm run dev`       | Starts the development server with Hot Module Replacement. |
-| `npm run build`     | Builds the application for production.                     |
-| `npm run start`     | Serves the production build.                               |
-| `npm run lint`      | Lints the codebase using ESLint.                           |
-| `npm run lint:fix`  | Lints and automatically fixes issues.                      |
-| `npm run format`    | Formats the code using Prettier.                           |
-| `npm run typecheck` | Runs the TypeScript compiler to check for type errors.     |
+Begin by setting up the environment using the following guidelines: [Environment Setup] (docs/environment_setup.md)\
